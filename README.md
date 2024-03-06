@@ -1,3 +1,4 @@
 # Git-demo
 
-THis is a practice for a git
+This is a practice for git
+Author - Jemi Aslalia
